@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Emad</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emaaaad&color=blue" alt="Profile views">
-</p>
-
 <div align="center">
 
 🎯 Master's student in **Robotics Engineering** at **University of Genoa**, currently interning at **IIT (Dynamic Legged Systems Lab)**.  
@@ -31,3 +27,7 @@
 </a>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emaaaad&color=blue" alt="Profile views">
+</p>
