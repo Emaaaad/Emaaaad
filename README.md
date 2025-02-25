@@ -4,24 +4,38 @@
   <img src="https://komarev.com/ghpvc/?username=Emaaaad&color=blue" alt="Profile views">
 </p>
 
+<div align="center">
+
 ## 🚀 About Me
 🎯 Master's student in **Robotics Engineering** at **University of Genoa**, currently interning at **IIT (Dynamic Legged Systems Lab)**.  
 🤖 Passionate about **robotics and control systems**.  
-🔍 Exploring **robot perception, SLAM, and reinforcement learning** for robotic applications.  
+---
+
+## 📊 Most Used Languages  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight" />
+</a>
 
 ---
 
-## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Connect with Me  
+<a href="https://www.researchgate.net/profile/Seyed-Emad-Razavi?ev=hdr_xprf">
+  <img src="https://img.shields.io/badge/ResearchGate-%230077B5.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/emadrazavi/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ---
 
-## 🌐 Connect with Me
-- [🔗 **ResearchGate**](https://www.researchgate.net/profile/Seyed-Emad-Razavi?ev=hdr_xprf)
-- [💼 **LinkedIn**](https://www.linkedin.com/in/emadrazavi/)
-- 📫 **Email**: s.emad_razavi@ymail.com
+## 📈 GitHub Stats  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emaaaad&show_icons=true&theme=tokyonight" />
+</a>
 
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emaaaad&show_icons=true&theme=tokyonight)
+</div>
