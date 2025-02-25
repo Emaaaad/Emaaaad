@@ -6,10 +6,10 @@
 
 <div align="center">
 
-## 🚀 About Me
+🚀 About Me
 🎯 Master's student in **Robotics Engineering** at **University of Genoa**, currently interning at **IIT (Dynamic Legged Systems Lab)**.  
 🤖 Passionate about **robotics and control systems**.  
----
+
 
 ## 📊 Most Used Languages  
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,10 +32,3 @@
 </a>
 
 ---
-
-## 📈 GitHub Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emaaaad&show_icons=true&theme=tokyonight" />
-</a>
-
-</div>
