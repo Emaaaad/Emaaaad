@@ -23,7 +23,6 @@
 <a href="https://www.linkedin.com/in/emadrazavi/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
 <a href="mailto:s.emad_razavi@ymail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
