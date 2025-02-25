@@ -6,7 +6,6 @@
 
 <div align="center">
 
-🚀 About Me
 🎯 Master's student in **Robotics Engineering** at **University of Genoa**, currently interning at **IIT (Dynamic Legged Systems Lab)**.  
 🤖 Passionate about **robotics and control systems**.  
 
