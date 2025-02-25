@@ -10,14 +10,14 @@
 🤖 Passionate about **robotics and control systems**.  
 
 
-## 📊 Most Used Languages  
+### 📊 Most Used Languages  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight" />
 </a>
 
 ---
 
-## 🌐 Connect with Me  
+### 🌐 Connect with Me  
 <a href="https://www.researchgate.net/profile/Seyed-Emad-Razavi?ev=hdr_xprf">
   <img src="https://img.shields.io/badge/ResearchGate-%230077B5.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
 </a>
