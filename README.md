@@ -13,6 +13,7 @@
 </a>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight&ts=123456)
 
 ---
 
