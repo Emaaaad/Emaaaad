@@ -1,9 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Emad</h1>
+<h1 align="center">Hi there 👋
+I'm Emad</h1>
 
 <div align="center">
 
-🎯 Master's student in **Robotics Engineering** at **University of Genoa**, currently interning at **IIT (Dynamic Legged Systems Lab)**.  
-🤖 Passionate about **robotics** and **control systems**.  
+Master's student in **Robotics Engineering**  
+Passionate about **robotics** and **control systems**.  
 
 
 
