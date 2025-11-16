@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋
-I'm Emad</h1>
+  
+<div align="center"> I'm Emad</h1>
 
 <div align="center">
 
