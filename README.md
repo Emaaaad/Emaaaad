@@ -2,17 +2,22 @@
 
 <div align="center">
 
-Master's student in **Robotics Engineering**  
-Passionate about **robotics** and **control systems**.  
+**Robotics Engineering (MSc)**  
+Passionate about **navigation** and **perception**.  
 
 
 
 ### 📊 Most Used Languages  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight" />
-</a>
+<div align="center">
+  <h3>📊 Most Used Languages</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight&cache_seconds=86400"
+    />
+  </a>
+</div>
 
----
 
 ### 🌐 Connect with Me  
 
