@@ -7,17 +7,15 @@ Passionate about **navigation** and **perception**.
 
 
 
-### 📊 Most Used Languages  
-<div align="center">
-  <h3>📊 Most Used Languages</h3>
+### 📊 Most Used Languages
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Top languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaaaad&layout=compact&theme=tokyonight&cache_seconds=86400"
     />
   </a>
-</div>
-
+</p>
 
 ### 🌐 Connect with Me  
 
