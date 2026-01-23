@@ -5,6 +5,10 @@
 **Robotics Engineer (MSc)**  
 Passionate about **navigation** and **perception**.  
 
+Find more details about me and my works here:
+
+[**My personal website**](emaaaad.github.io)
+
 
 
 --- 
