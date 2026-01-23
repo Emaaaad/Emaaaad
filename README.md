@@ -7,7 +7,7 @@ Passionate about **navigation** and **perception**.
 
 Find more details about me and my works here:
 
-[**My personal website**](emaaaad.github.io)
+[**My personal website**](https://emaaaad.github.io/)
 
 
 
