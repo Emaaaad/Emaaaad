@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Emad</h1>
-
-<div align="center">
+<h1 align="center">Hi there 👋 </h1>
 
 🤖 I’m a robotics engineer with an MSc in Robotics and a background in electronics and control systems. I previously worked on perception and object-level mapping to help a quadruped robot understand its surroundings and navigate autonomously. These days, I develop and test ROS 2 systems for wheeled mobile robots, working on perception, navigation and system integration.
 
